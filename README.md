@@ -105,7 +105,7 @@ Use [docs/complete.md](docs/complete.md) - the full guide series in a single fil
 
 1. **Clone and Explore:**
    ```bash
-   git clone [repository-url]
+   git clone git@github.com:garyblankenship/cloudflare-free-tier-guide.git
    cd cloudflare-free-tier-guide
    ```
 
