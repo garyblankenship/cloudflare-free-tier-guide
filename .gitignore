@@ -1,0 +1,77 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor and IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+*~
+
+# Build Outputs
+complete.md
+dist/
+build/
+out/
+
+# Node.js (if any)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn/
+.pnp.*
+
+# Environment Files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archives
+*.zip
+*.tar.gz
+*.tar.bz2
+*.rar
+*.7z
+
+# Cache Directories
+.cache/
+.parcel-cache/
+
+# Documentation Build Artifacts
+.docusaurus/
+.next/
+.nuxt/
+.output/
+
+# Miscellaneous
+*.pid
+*.seed
+*.pid.lock
+.grunt
+.lock-wscript
+.nyc_output
+coverage/
+.coverage
+.pytest_cache/
